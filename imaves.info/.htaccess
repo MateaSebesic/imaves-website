@@ -1,0 +1,13 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^imaves\.info$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.imaves\.info$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^(.*)$ "http\:\/\/www\.imaves\.hr\/$1" [R=301,L]
+RewriteCond %{HTTP_HOST} ^imaves1\.imaves\.hr$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.imaves1\.imaves\.hr$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^(.*)$ "http\:\/\/www\.imaves\.hr\/$1" [R=301,L]
+

@@ -1,0 +1,36 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+
+Redirect /hr/166/4me http://www.imaves.hr/4me
+Redirect /en/166/4me http://www.imaves.hr/4me-en
+
+Redirect /hr/101/itil_skolovanje http://www.imaves.hr/itil
+Redirect /en/101/itil_skolovanje http://www.imaves.hr/itil-en
+
+Redirect /hr/147/konferencija_tvrtke_imaves http://www.imaves.hr/
+Redirect /en/147/konferencija_tvrtke_imaves http://www.imaves.hr/index-en
+
+Redirect /hr/49/bmc_mobile_device_management http://www.imaves.hr/BMC
+Redirect /en/49/bmc_mobile_device_management http://www.imaves.hr/BMC-en
+
+Redirect /hr/10/bmc http://www.imaves.hr/BMC
+Redirect /en/10/bmc http://www.imaves.hr/BMC-en
+
+Redirect /bmc http://www.imaves.hr/BMC
+Redirect /bmc http://www.imaves.hr/BMC-en
+
+Redirect /hr/12/profil_tvrtke http://www.imaves.hr/profile
+Redirect /en/12/profil_tvrtke http://www.imaves.hr/profile.en
+
+Redirect /hr/58/ponuda_za_posao http://www.imaves.hr/career
+Redirect /en/58/ponuda_za_posao http://www.imaves.hr/career-en
+
+Redirect /hr/11/opce_informacije http://www.imaves.hr/general-information
+Redirect /en/11/opce_informacije http://www.imaves.hr/general-information-en
+
+
+
+
+
