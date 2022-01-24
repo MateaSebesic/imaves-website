@@ -82,10 +82,11 @@ include "components/navigation.php";
                 <a href="career-it-datalab.php" target="blank" class="registered-button "><span
                         class="registered-button-text">Stručni suradnik za Datalab Pantheon (m/ž)</span></a>
                 </div>
-        <br><br>
+        <br>
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
   </div>
-  <br><br>
+</div>
+  <br>
 
   <div class="row ">
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
@@ -94,10 +95,10 @@ include "components/navigation.php";
                 <a href="career-it-inf.php" target="blank" class="registered-button "><span
                         class="registered-button-text">Informatičar (m/ž)</span></a>
                 </div>
-        <br><br>
+        
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
   </div>
-  
+  </div>
   <br><br>
   <div class="row ">
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
@@ -105,7 +106,7 @@ include "components/navigation.php";
       <div class="col registered-button-div">
                 <a href="career-it-project-manager.php" target="blank" class="registered-button "><span
                         class="registered-button-text">PROJECT MANAGER za Pricefx (m/ž)</span></a>
-                </div>
+      </div>
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
   </div>
 
@@ -113,16 +114,15 @@ include "components/navigation.php";
   <div class="row ">
     <div class="col-md-12  "><img style="width: inherit;" src="assets/images/background-job-bottom.png" alt="">
   </div>
-
-</div>
+  </div>
 <style>
-  #itil{
+  #career{
     font-weight: bold;
     padding-top: 10px;
     border-bottom: 10px solid #F39200;
   }
 </style>
-
+</div>
 
 <?php
 include "components/footer.php";

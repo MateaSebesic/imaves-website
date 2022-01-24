@@ -1,3 +1,5 @@
+<html>
+
 <?php
 include "components/header.php";
 include "components/navigation.php";
@@ -19,7 +21,7 @@ include "components/navigation.php";
         <div class="col-md-6 col-lg-6 col-sm-12 ">
             <div class="unregistered-form">
                 <p class = "unregistered-head">
-
+                    
 
                 <?php
                 
@@ -94,3 +96,5 @@ include "components/navigation.php";
 <?php
 include "components/footer.php";
 ?>
+
+

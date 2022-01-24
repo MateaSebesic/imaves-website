@@ -3,6 +3,7 @@ include "components/header.php";
 include "components/navigation.php";
 ?>
 
+<meta charset="UTF-8">
 
 <div style="overflow: hidden;">
     <div class="row ">
