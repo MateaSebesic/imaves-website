@@ -86,7 +86,7 @@ Polja označena zvjezdicom (<span style="color:orange;">*</span>) obavezno je is
   <label for="inputPlaceholderEx" class="unregistered-par2">E-mail adresa<span style="color:orange;">*</span></label>
   <input placeholder="" type="text" name="email" id="inputPlaceholderEx" class="form-control form-control-contact" required>
   <label for="inputPlaceholderEx" class="unregistered-par2">Telefon</label>
-  <input placeholder="" type="tel" name="telephone" pattern="[+][0-9]{3}-[0-9]{2}-[0-9]{3}"" id="inputPlaceholderEx" class="form-control form-control-contact">
+  <input placeholder="" type="tel" name="telephone" id="inputPlaceholderEx" class="form-control form-control-contact">
   <label for="inputPlaceholderEx" class="unregistered-par2">Poruka<span style="color:orange;">*</span></label>
   <textarea placeholder="" rows="10" cols="50" type="text" name="message" id="inputPlaceholderEx" class="form-control form-control-contact-message " required></textarea>
   <label for="inputPlaceholderEx" class="unregistered-par2">Životopis - link ili datoteka (maksimalne veličine 10 MB) </label>
