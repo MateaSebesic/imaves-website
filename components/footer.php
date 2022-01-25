@@ -16,7 +16,7 @@
                       </li>
                       <li>
                           <a class="footer-link" href="https://goo.gl/maps/mXPw9o4rUGeq2w8T6" target="_blank">Ulica
-                              grada Vukovara 274 </a><br />
+                              Grada Vukovara 274 </a><br />
                       </li>
                       <li>
                           <a>10000 Zagreb, Republika Hrvatska</a>
