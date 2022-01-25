@@ -1,6 +1,6 @@
 # imaves-website
 
-Instructions for Setting up SSH connection   
+Instructions for Setting up SSH connection and cloning  
 
 Navigate to cPanel’s SSH Access interface undet Security tab  
 
