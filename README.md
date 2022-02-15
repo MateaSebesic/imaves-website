@@ -19,11 +19,13 @@ Host imaves
 
 Passphrase is located under `\\imaves.hr\IMAVES - Documents\Profesionalne usluge\Održavanje\Imaves IT\KeePass\Ostalo\hosting.kdbx`  
 
-Check if ssh is connected to GitHub repo before changes are made.  
+Check if ssh is connected to GitHub repo and new changes are pulled from it before changes are made.  
 ```bash
 $ cd www
 $ ssh -vT git@github.com
+$ git -c user.name='Your name' -c user.email=Your@emailaddres.com pull
 ```
+After everything is up to latest update and patched continue on the making changes/tasks  
 
 To commit changes to imaves-website repo  
 You need to run the following commands:
