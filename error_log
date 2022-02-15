@@ -1,3 +1,0 @@
-[24-Jan-2022 10:20:39 Europe/Zagreb] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/imaveshr/public_html/components/header.php:2021) in /home2/imaveshr/public_html/career-form-it.php on line 26
-[24-Jan-2022 10:20:52 Europe/Zagreb] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/imaveshr/public_html/components/header.php:2021) in /home2/imaveshr/public_html/career-form-it.php on line 26
-[24-Jan-2022 10:24:04 Europe/Zagreb] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/imaveshr/public_html/components/header.php:2021) in /home2/imaveshr/public_html/career-form-it.php on line 26

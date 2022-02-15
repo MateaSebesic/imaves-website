@@ -102,7 +102,7 @@ include "components/navigation.php";
                 Ukupni prihvatljivi troškovi: 308.342,30 HRK<br>
                 EU sufinanciranje projekta: 260.000,00 HRK<br>
                 Razdoblje provedbe: 16.10.2017. do 16.04.2019.<br>
-                Kontakt osoba: Daniella Pojatina, e-mail: <a class="most-used-link" href="mailto:daniella.pojatina@imaves.hr?subject=Natječaji">daniella.pojatina@imaves.hr<a> <br>
+                Kontakt osoba: Sanja Majhen, e-mail: <a class="most-used-link" href="mailto:sanja.majhen@imaves.hr?subject=Natječaji">sanja.majhen@imaves.hr<a> <br>
                 <a class="most-used-link" href="http://www.strukturnifondovi.hr" target="blank">http://www.strukturnifondovi.hr</a><br>
                 „Zajedno do fondova EU“<br>
 
