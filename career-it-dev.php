@@ -48,7 +48,7 @@ Osnovna misija je savjetovanje pri odabiru rješenja koje najbolje odgovara Vaš
                     <span style="font-weight:  500;">Vidimo te u Imaves-u ako imaš sljedeća znanja i kompetencije:</span><br>
                                 <ul>
                                     <li>rad s GIT-om</li>
-                                    <li>odlično znanje HTML5, CSS3</li>
+                                    <li>znanje HTML5, CSS3</li>
                                     <li>iskustvo u programiranju koristeći SQL i JavaScript</li>
                                     <li>znanje .NET frameworka ili Python</li>
                                     <li>razumijevanje REST API, Webhooks API, GraphQL</li>

@@ -20,7 +20,7 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <nav class="navbar navbar-expand-xl navbar-dark fixed-top navbar-css " style=" width:inherit;">
-        <a class="navbar-brand" href="index.php"><img class="img-navbar" src="assets/images/logo.png"></a>
+        <a class="navbar-brand" href="index.php"><img class="img-navbar" src="assets/images/imavesLogo20godina.png"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
