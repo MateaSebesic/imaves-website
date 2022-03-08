@@ -111,13 +111,13 @@ Pozivamo zainteresirane kandidate da se prijave na naš natječaj slanjem život
                         class="registered-button-text">PONUDA ZA POSAO -Stručni suradnik za Datalab Pantheon (m/ž)</span></a>
                 </div>
                 <br>
-                
+                <!--
                 <div class="col registered-button-div">
                 <a href="career-it-BMC.php" target="blank" class="registered-button "><span
                         class="registered-button-text">PONUDA ZA POSAO - Stručni suradnik za BMC (m/ž)</span></a>
                 </div>
                 <br>
-
+                -->
 
 
 

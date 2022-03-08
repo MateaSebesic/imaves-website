@@ -108,13 +108,13 @@ Pozivamo zainteresirane kandidate da se prijave na naš natječaj slanjem život
                         class="registered-button-text">PONUDA ZA POSAO - Informatičar</span></a>
                 </div>
                 <br>
-
+                <!--
                 <div class="col registered-button-div">
                 <a href="career-it-BMC.php" target="blank" class="registered-button "><span
                         class="registered-button-text">PONUDA ZA POSAO - Stručni suradnik za BMC Software (m/ž)</span></a>
                 </div>
                 <br>
-                
+                -->
                 <div class="col registered-button-div">
                 <a href="career-it-4me.php" target="blank" class="registered-button "><span
                         class="registered-button-text">PONUDA ZA POSAO - Stručni suradnik za 4me Software (m/ž)</span></a>

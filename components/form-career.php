@@ -74,7 +74,9 @@ Polja označena zvjezdicom (<span style="color:orange;">*</span>) obavezno je is
     <option value="Developer">Developer (m/ž)</option>
     <option value="Configuration engineer za Pricefx">Configuration engineer za Pricefx (m/ž)</option>
     <option value="Stručni suradnik za 4me">Stručni suradnik za 4me (m/ž)</option>
+    <!--
     <option value="Stručni suradnik za BMC Software">Stručni suradnik za BMC Software (m/ž)</option>
+    -->
     <option value="Informatičar">Informatičar (m/ž)</option>
     <option value="Project manager za pricefx (m/ž)">Project manager za pricefx (m/ž)</option>
     <option value="Stručni suradnik za Datalab Pantheon (m/ž)">Stručni suradnik za Datalab Pantheon (m/ž)</option>

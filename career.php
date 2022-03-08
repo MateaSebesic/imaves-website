@@ -58,7 +58,7 @@ include "components/navigation.php";
   </div>
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
   </div>
-
+<!--
     <br><br>
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
   </div>
@@ -71,6 +71,7 @@ include "components/navigation.php";
                 </div>
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
   </div>
+-->
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
   </div>
 
