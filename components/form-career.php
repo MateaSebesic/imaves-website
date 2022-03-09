@@ -79,7 +79,6 @@ Polja označena zvjezdicom (<span style="color:orange;">*</span>) obavezno je is
     -->
     <option value="Informatičar">Informatičar (m/ž)</option>
     <option value="Project manager za pricefx (m/ž)">Project manager za pricefx (m/ž)</option>
-    <option value="Stručni suradnik za Datalab Pantheon (m/ž)">Stručni suradnik za Datalab Pantheon (m/ž)</option>
   </select> 
   <label for="inputPlaceholderEx" class="unregistered-par2">Ime<span style="color:orange;">*</span></label>
   <input placeholder="" type="text" name="name" id="inputPlaceholderEx" class="form-control form-control-contact" required>

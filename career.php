@@ -76,18 +76,6 @@ include "components/navigation.php";
   </div>
 
   <br><br>
-  <div class="row ">
-    <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
-    <div class="col-10 col-sm-12 col-md-8 col-lg-8 text-center">
-      <div class="col registered-button-div">
-                <a href="career-it-datalab.php" target="blank" class="registered-button "><span
-                        class="registered-button-text">Stručni suradnik za Datalab Pantheon (m/ž)</span></a>
-                </div>
-        <br>
-    <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
-  </div>
-</div>
-  <br>
 
   <div class="row ">
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>

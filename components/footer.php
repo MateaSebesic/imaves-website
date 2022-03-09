@@ -108,24 +108,19 @@
           <!--Grid row-->
           <div class="row">
               <!--Grid column-->
-              <div class="col-sm-3 col-lg-3  logo-wrapper">
+              <div class="col-sm-4 col-lg-4  logo-wrapper">
                   <!--Image-->
                   <img src="assets/images/4me-logo.png" alt="Responsive image">
               </div>
-              <div class="col-sm-3 col-lg-3 logo-wrapper">
+              <div class="col-sm-4 col-lg-4 logo-wrapper">
                   <!--Image-->
                   <img src="assets/images/bmc-logo.png" alt="Responsive image">
               </div>
               <!--Grid column-->
-              <div class="col-sm-3 col-lg-3  logo-wrapper">
-                  <!--Image-->
-                  <img src="assets/images/datalab.png" alt="Responsive image">
-              </div>
-              <div class="col-sm-3 col-lg-3  logo-wrapper">
+              <div class="col-sm-4 col-lg-4  logo-wrapper">
                   <!--Image-->
                   <img src="assets/images/PriceFx-logo.png" alt="Responsive image">
               </div>
-              <!--Grid column-->
              
           <!--Grid row-->
       </div>

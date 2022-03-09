@@ -37,9 +37,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <a class="nav-link" id ="bmc" href="BMC-en">&ensp;BMC SOFTWARE&ensp;</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link btn-navbar" id ="pantheon" href="pantheon-en">&ensp;DATALAB&ensp;</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" id ="pricefx" href="pricefx-en">&ensp;Pricefx&ensp;</a>
                 </li>
                 <li class="nav-item">

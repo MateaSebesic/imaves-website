@@ -114,13 +114,6 @@ Pozivamo zainteresirane kandidate da se prijave na naš natječaj slanjem život
                 </div>
                 <br>
                 
-
-                <div class="col registered-button-div">
-                <a href="career-it-datalab.php" target="blank" class="registered-button "><span
-                        class="registered-button-text">PONUDA ZA POSAO -Stručni suradnik za Datalab Pantheon (m/ž)</span></a>
-                </div>
-                <br>
-                
                 <div class="col registered-button-div">
                 <a href="career-it-dev.php" target="blank" class="registered-button "><span
                         class="registered-button-text">PONUDA ZA POSAO - Developer (m/ž)</span></a>
