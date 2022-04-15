@@ -16,29 +16,15 @@ border: none;"><span style="color: white">X</span></button>
 <div style="overflow: hidden;width:inherit">
     <div class="row ">
         <div class="col-md-12  "><img class="header-img" style="width: inherit;"
-<<<<<<< HEAD
-<<<<<<< HEAD
                 src="assets/images/Homepage-background.png" alt="">
             <div class="centered-homepage-head homepage-head"><h1 title="NVT"><b>IMAVES SLAVI 20 GODINA!</b></h1>
              <br>
-            IMAVES se bavi projektiranjem, uvođenjem, nadzorom i
-                integracijom digitalnih rješenja i približavanju IT tehnologije krajnjim korisnicima. <br>Osnovna misija
-                nam je savjetovanje pri odabiru rješenja koje najbolje odgovara Vašim zahtjevima.</div>
-=======
-=======
->>>>>>> d9f504d9d907359df447790b190b24e2fb88c26e
-                src="assets/images/Homepage-background.png" alt="" style="color:white; text-dectoration:none;">
                 <a href="imaves20godina.php" class="click">
-                    <div class="centered-homepage-head homepage-head"><h1 style="color:white; text-decoration: none;"><b>IMAVES  SLAVI 20 GODINA!</b></h1>
                     <img src="assets/images/imavesLogo20godinaTransperent.png" alt="IMAVES  SLAVI 20 GODINA" width="982" height="307">
                  </a>
                     IMAVES se bavi projektiranjem, uvođenjem, nadzorom i
                         integracijom digitalnih rješenja i približavanju IT tehnologije krajnjim korisnicima. <br>Osnovna misija
                         nam je savjetovanje pri odabiru rješenja koje najbolje odgovara Vašim zahtjevima.</div>
-<<<<<<< HEAD
->>>>>>> d9f504d9d907359df447790b190b24e2fb88c26e
-=======
->>>>>>> d9f504d9d907359df447790b190b24e2fb88c26e
         </div>
     </div>
 
