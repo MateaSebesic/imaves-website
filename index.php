@@ -17,9 +17,8 @@ border: none;"><span style="color: white">X</span></button>
     <div class="row ">
         <div class="col-md-12  "><img class="header-img" style="width: inherit;"
                 src="assets/images/Homepage-background.png" alt="">
-            <div class="centered-homepage-head homepage-head"><h1><b>IMAVES  SLAVI 20 GODINA!</b></h1>
+            <div class="centered-homepage-head homepage-head"><h1 title="NVT"><b>IMAVES SLAVI 20 GODINA!</b></h1>
              <br>
-
             IMAVES se bavi projektiranjem, uvođenjem, nadzorom i
                 integracijom digitalnih rješenja i približavanju IT tehnologije krajnjim korisnicima. <br>Osnovna misija
                 nam je savjetovanje pri odabiru rješenja koje najbolje odgovara Vašim zahtjevima.</div>
