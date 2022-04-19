@@ -21,10 +21,11 @@ border: none;"><span style="color: white">X</span></button>
              <br>
                 <a href="imaves20godina.php" class="click">
                     <img src="assets/images/imavesLogo20godinaTransperent.png" alt="IMAVES  SLAVI 20 GODINA" width="982" height="307">
-                 </a>
-                    IMAVES se bavi projektiranjem, uvođenjem, nadzorom i
-                        integracijom digitalnih rješenja i približavanju IT tehnologije krajnjim korisnicima. <br>Osnovna misija
-                        nam je savjetovanje pri odabiru rješenja koje najbolje odgovara Vašim zahtjevima.</div>
+                </a>
+                <br>                    
+                IMAVES se bavi projektiranjem, uvođenjem, nadzorom i
+                integracijom digitalnih rješenja i približavanju IT tehnologije krajnjim korisnicima. <br>
+                Osnovna misija nam je savjetovanje pri odabiru rješenja koje najbolje odgovara Vašim zahtjevima.</div>
         </div>
     </div>
 
