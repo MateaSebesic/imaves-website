@@ -39,7 +39,7 @@ include "components/navigation.php";
                     $message = $_POST['message'];
                     $link = $_POST['link'];
                     $fromemail =  $email;
-                    $subject="Prijava za posao";
+                    $subject="Prijava za posao - $pozicija CV_$name_$surname";
                     $email_message = "Prijava za poziciju: $pozicija\nIme: $name\nPrezime: $surname\nBroj telefona: $telephone\nEmail: $email\nLink: $link\nMessage:$message";
                     $semi_rand = md5(uniqid(time()));
                     $headers = "Od: ".$fromemail;
@@ -62,7 +62,7 @@ include "components/navigation.php";
                              $strContent  .= "\n\n" .
                              "--{$mime_boundary}--\n";
                              
-                         }$toemail="kadrovska@imaves.hr"; 
+                         }$toemail="mislav.matokovic@imaves.hr"; 
                          mail($toemail, $subject, $email_message, $headers);
                          echo '<h1 class="programming-head">Vaša prijava je poslana.<br>Kontaktirat ćemo Vas.....</h1>';}
                          else{
