@@ -62,7 +62,7 @@ include "components/navigation.php";
                              $strContent  .= "\n\n" .
                              "--{$mime_boundary}--\n";
                              
-                         }$toemail="mislav.matokovic@imaves.hr"; 
+                         }$toemail="kadrovska@imaves.hr"; 
                          mail($toemail, $subject, $email_message, $headers);
                          echo '<h1 class="programming-head">Vaša prijava je poslana.<br>Kontaktirat ćemo Vas.....</h1>';}
                          else{
