@@ -39,7 +39,7 @@ include "components/navigation.php";
                     $message = $_POST['message'];
                     $link = $_POST['link'];
                     $fromemail =  $email;
-                    $subject="Prijava za posao - $pozicija CV_$name_$surname";
+                    $subject="Prijava za posao - $pozicija CV_$name$surname";
                     $email_message = "Prijava za poziciju: $pozicija\nIme: $name\nPrezime: $surname\nBroj telefona: $telephone\nEmail: $email\nLink: $link\nMessage:$message";
                     $semi_rand = md5(uniqid(time()));
                     $headers = "Od: ".$fromemail;
