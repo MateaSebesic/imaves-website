@@ -7,13 +7,22 @@ include "components/navigation.php";
 <div style="overflow: hidden;">
   <div class="row ">
     <div class="col-md-12  "><img class = "header-img" style="width: inherit;" src="assets/images/background-4me-top.png" alt="">
-      <div class="centered most-used-head">4ME</div>
+      <div class="centered most-used-head">4me</div>
     </div>
   </div>
 
   <div class="row">
     <div class="col ">
-      <p class="most-used-head2">ŠTO JE 4me?</p>
+    <div class="col-md-12  ">
+            <div class="about-head">ŠTO JE 4me?</div>
+        </div>
+      <div class="row">
+        <div class="col-md-5 col-lg-5 col-1 "></div>
+        <div class="col-md-2 col-lg-2 col-10  ">
+            <a href="" target="blank"><img  src="assets/images/4me-Premium-Implementation-Partner-2022-Award.png" width="206" height="196" alt=""></a>
+        </div>
+        </div>
+    </div>
       <p class="most-used-par1">4me® je ESM (enterprise service management) rješenje za besprijekornu suradnju između unutarnjih i vanjskih timova.<span class="most-used-par1-4me"><br>4me je jedino ESM rješenje koje omogućuje svim unutarnjim odjelima poput <b>IT-a</b>, <b>HR-a</b>, <b>financija</b> i <b>održavanja</b> jednostavnu i efikasnu suradnju. Ista razina suradnje omogućena je i između korisnika i vanjskog pružatelja usluga kojima su neke usluge dodijeljene (<b>outsourced</b>). Uz podršku ITIL procesima, 4me pruža i u potpunosti integrirano upravljanje znanjem, praćenje vremena i troškova i upravljanje projektima. Za poslovne korisnike, 4me je aplikacija preko koje uvijek mogu dobiti pomoć.
 </span></p>
     </div>

@@ -7,7 +7,7 @@ include "components/navigation.php";
 <div style="overflow: hidden;padding-bottom:10%;">
     <div class="row ">
         <div class="col-md-12  ">
-            <div class="about-head">CERTIFIKAT ISO</div>
+            <div class="about-head">CERTIFIKATI</div>
         </div>
     </div>
 
@@ -18,14 +18,18 @@ include "components/navigation.php";
         </div>
         <div class="col-md-5 col-lg-5 col-1 "></div>
     </div>
+    <br>
     <div class="row">
-        <div class="col-md-4 col-lg-4 col-3 "></div>
-        <div class="col-md-4 col-lg-4 col-6  "><br>
-            <p class="about-par"><a class="most-used-link" href="assets/pdfs/iso-certifikat-hr.pdf" target="_blank">IMAVES ISO certifikat</a></p>
+        <div class="col-md-5 col-lg-5 col-1 "></div>
+        <div class="col-md-2 col-lg-2 col-10  ">
+            <a href="" target="blank"><img  src="assets/images/4me-Premium-Implementation-Partner-2022-Award.png" width="306" height="296" alt=""></a>
         </div>
-
-        <div class="col-md-4 col-lg-4 col-3 "></div>
+        <div class="col-md-5 col-lg-5 col-1 "></div>
     </div>
+    </div>
+
+    </div>
+
 
 
 

@@ -83,7 +83,7 @@
                           <a href="quality-policy.php" class="footer-link">Politika kvalitete</a>
                       </li>
                       <li>
-                          <a href="iso.php" class="footer-link">Certifikat ISO</a>
+                          <a href="iso.php" class="footer-link">Certifikati</a>
                       </li>
                       <li>
                           <a href="codex.php" class="footer-link">Povelja Kodeks etike</a>
@@ -110,7 +110,7 @@
               <!--Grid column-->
               <div class="col-sm-4 col-lg-4  logo-wrapper">
                   <!--Image-->
-                  <img src="assets/images/4me-logo.png" alt="Responsive image">
+                  <img src="assets/images/4me-logo-reg-white.webp" alt="Responsive image">
               </div>
               <div class="col-sm-4 col-lg-4 logo-wrapper">
                   <!--Image-->
