@@ -16,7 +16,7 @@ include "components/navigation.php";
       
       <p class="privacy-policy">IMAVES je društvo sa sjedištem u Zagrebu i brojnim korisnicima širom regije.</p>
       <p class="privacy-policy">Od samih početaka, 2002. godine, poslujemo isključivo na području unapređenja poslovnih usluga</p>
-      <p class="privacy-policy">• projektiranjem<br>uvođenjem<br>• nadzorom<br>• integracijom različitih rješenja i<br>• ITIL školovanjem</p>
+      <p class="privacy-policy">• projektiranjem<br>• uvođenjem<br>• nadzorom<br>• integracijom različitih rješenja i<br>• ITIL školovanjem</p>
       <p class="privacy-policy">omogućujući vama, našim cijenjenim korisnicima, da je vaš IT usko povezan s poslovnim potrebama te se može nositi sa zahtjevima i brzim promjenama modernog poslovanja.</p>
       <p class="privacy-policy">Korisnici širom regije prepoznali su na koji način IMAVES ITSM rješenja pomažu poboljšanju uslužnosti, smanjenju troškova te usuglašavanju s regulativama, normama i standardima:</p>
       <p class="privacy-policy">• Narodne banke<br>• Agencije za nadzor financijskih usluga<br>• ISO 9001, 27001<br>• ITIL procesima – Incident, Problem, Change, Service Level Management</p>

@@ -52,7 +52,8 @@ include "components/navigation.php";
                              $strContent = chunk_split(base64_encode(file_get_contents($_FILES["attachment"]["tmp_name"])));  
                              $email_message .= "This is a multi-part message in MIME format.\n\n" .
                              "--{$mime_boundary}\n" .
-                             "Content-Type:text/plain; charset=\"iso-8859-1\"\n" ."Content-Transfer-Encoding: 7bit\n\n" .$email_message .= "\n\n";
+                             "Content-Type:text/html; charset=\"utf-8\"\n" ."Content-Transfer-Encoding: 7bit\n\n" .$email_message .= "\n\n";
+                             //"Content-Type:text/plain; charset=\"iso-8859-1\"\n" ."Content-Transfer-Encoding: 7bit\n\n" .$email_message .= "\n\n";
                              $email_message .= "--{$mime_boundary}\n" .
                              "Content-Type: application/octet-stream;\n" .
                              " name=\"{$strFilesName}\"\n" .
