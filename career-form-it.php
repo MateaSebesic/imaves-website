@@ -62,8 +62,8 @@ include "components/navigation.php";
                              "Content-Transfer-Encoding: base64\n\n" .
                              $strContent  .= "\n\n" .
                              "--{$mime_boundary}--\n";
-                             }$toemail="mislav.matokovic@imaves.hr"; 
-                         //}$toemail="kadrovska@imaves.hr"; 
+                             //}$toemail="mislav.matokovic@imaves.hr"; 
+                         }$toemail="kadrovska@imaves.hr"; 
                          mail($toemail, $subject, $email_message, $headers);
                          echo '<h1 class="programming-head">Vaša prijava je poslana.<br>Kontaktirat ćemo Vas.....</h1>';}
                          else{
