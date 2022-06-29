@@ -26,6 +26,14 @@ include "components/navigation.php";
         </div>
         <div class="col-md-5 col-lg-5 col-1 "></div>
     </div>
+    <br>
+    <div class="row">
+        <div class="col-md-5 col-lg-5 col-1 "></div>
+        <div class="col-md-2 col-lg-2 col-10  ">
+            <a href="" target="blank"><img  src="assets/images/4me-Certified-Partner-2022-Award.png" width="306" height="296" alt=""></a>
+        </div>
+        <div class="col-md-5 col-lg-5 col-1 "></div>
+    </div>
     </div>
 
     </div>
