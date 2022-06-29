@@ -103,23 +103,17 @@
     <div class="container">
       <!--Grid row-->
       <div class="row">
-        <div class="col-sm-0 col-lg-1"></div>
         <!--Grid column-->
-        <div class="col-sm-4 col-lg-2 logo-wrapper">
-          <!--Image-->
-          <img src="assets/images/bmc-logo.png" alt="Responsive image">
-        </div>
         <!--Grid column-->
-        <div class="col-sm-0 col-lg-2"></div>
         <!--Grid column-->
-        <div class="col-sm-4 col-lg-2  logo-wrapper">
+        <div class="col-sm-4 col-lg-2  logo-wrapper mx-auto">
           <!--Image-->
           <img src="assets/images/4me-logo.png" alt="Responsive image">
         </div>
         <!--Grid column-->
         <div class="col-sm-0 col-lg-2"></div>
         <!--Grid column-->
-        <div class="col-sm-4 col-lg-2  logo-wrapper">
+        <div class="col-sm-4 col-lg-2  logo-wrapper mx-auto">
           <!--Image-->
           <img src="assets/images/PriceFx-logo.png" alt="Responsive image">
         </div>

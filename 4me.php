@@ -25,7 +25,7 @@ include "components/navigation.php";
         <div class="col-md-2 col-lg-2 col-10 ">
             <a href="" target="blank"><img  src="assets/images/4me-Certified-Partner-2022-Award.png" width="206" height="196" alt=""></a>
         </div>
-    </div>
+      </div>
       <p class="most-used-par1">4me® je ESM (enterprise service management) rješenje za besprijekornu suradnju između unutarnjih i vanjskih timova.<span class="most-used-par1-4me"><br>4me je jedino ESM rješenje koje omogućuje svim unutarnjim odjelima poput <b>IT-a</b>, <b>HR-a</b>, <b>financija</b> i <b>održavanja</b> jednostavnu i efikasnu suradnju. Ista razina suradnje omogućena je i između korisnika i vanjskog pružatelja usluga kojima su neke usluge dodijeljene (<b>outsourced</b>). Uz podršku ITIL procesima, 4me pruža i u potpunosti integrirano upravljanje znanjem, praćenje vremena i troškova i upravljanje projektima. Za poslovne korisnike, 4me je aplikacija preko koje uvijek mogu dobiti pomoć.
 </span></p>
     </div>

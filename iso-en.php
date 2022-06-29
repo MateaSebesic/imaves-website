@@ -11,6 +11,7 @@ include "components/navigation-en.php";
         </div>
     </div>
 
+
     <div class="row">
         <div class="col-md-5 col-lg-5 col-1 "></div>
         <div class="col-md-2 col-lg-2 col-10  ">
@@ -18,15 +19,25 @@ include "components/navigation-en.php";
         </div>
         <div class="col-md-5 col-lg-5 col-1 "></div>
     </div>
+    <br>
     <div class="row">
-        <div class="col-md-4 col-lg-4 col-3 "></div>
-        <div class="col-md-4 col-lg-4 col-6  "><br>
-            <p class="about-par"><a class="most-used-link" href="assets/pdfs/iso-certifikat-eng.pdf" target="_blank">IMAVES ISO certificate</a></p>
+        <div class="col-md-5 col-lg-5 col-1 "></div>
+        <div class="col-md-2 col-lg-2 col-10  ">
+            <a href="" target="blank"><img  src="assets/images/4me-Premium-Implementation-Partner-2022-Award.png" width="306" height="296" alt=""></a>
         </div>
-
-        <div class="col-md-4 col-lg-4 col-3 "></div>
+        <div class="col-md-5 col-lg-5 col-1 "></div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-md-5 col-lg-5 col-1 "></div>
+        <div class="col-md-2 col-lg-2 col-10  ">
+            <a href="" target="blank"><img  src="assets/images/4me-Certified-Partner-2022-Award.png" width="306" height="296" alt=""></a>
+        </div>
+        <div class="col-md-5 col-lg-5 col-1 "></div>
+    </div>
     </div>
 
+    </div>
 
 
 </div>

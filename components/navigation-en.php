@@ -33,9 +33,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li class="nav-item">
                     <a class="nav-link" id ="me" href="4me-en">&ensp;4me&ensp;</a>
                 </li>
-                <li class="nav-item ">
-                    <a class="nav-link" id ="bmc" href="BMC-en">&ensp;BMC SOFTWARE&ensp;</a>
-                </li>
                 <li class="nav-item">
                     <a class="nav-link" id ="pricefx" href="pricefx-en">&ensp;Pricefx&ensp;</a>
                 </li>
@@ -55,7 +52,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
             <ul class="navbar-nav">
                 <li class="nav-item nav-link nav-language">
-                    <a   href="index.php" style="color: #FFFFFF;">HR</a>/<span style=" font-weight: bold;">EN</span>/<a  href="index-slo.php" style="color: #FFFFFF;">SLO</a>&ensp;
+                    <a   href="index.php" style="color: #FFFFFF;">HR</a>/<span style=" font-weight: bold;">EN</span>&ensp;
                 </li>
             </ul>
             <ul class="navbar-nav btnr">

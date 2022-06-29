@@ -21,19 +21,15 @@ border: none;"><span style="color: white">X</span></button>
     </div>
 
     <div class="row ">
-        <div class=" col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
+        <div class=" col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6 mx-auto">
             <div class="centered-homepage-imgs"><a class="nav-link" href="4me-en.php"><img class="img-index"
                         src="assets/images/Homepage-4me.png" alt=""></a></div>
         </div>
-        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
-            <div class="centered-homepage-imgs"><a class="nav-link" href="BMC-en.php"><img class="img-index"
-                        src="assets/images/Homepage-bmc.png" alt=""></a></div>
-        </div>
-        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
+        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6 mx-auto">
             <div class="centered-homepage-imgs"><a class="nav-link" href="pricefx-en.php"><img class="img-index"
                         src="assets/images/Homepage-pricefx.png" alt=""></a></div>
         </div>
-        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
+        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6 mx-auto">
             <div class="centered-homepage-imgs"><a class="nav-link" href="programming-en.php"><img class="img-index"
                         src="assets/images/Homepage-programming-en.png" alt=""></a></div>
         </div>

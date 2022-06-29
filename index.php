@@ -25,24 +25,20 @@ border: none;"><span style="color: white">X</span></button>
                 <br>                    
                 IMAVES se bavi projektiranjem, uvođenjem, nadzorom i
                 integracijom digitalnih rješenja i približavanju IT tehnologije krajnjim korisnicima. <br>
-                Osnovna misija nam je savjetovanje pri odabiru rješenja koje najbolje odgovara Vašim zahtjevima.</div>
+                Osnovna misija nam je savjetovanje pri odabiru rješenja koje najbolje odgovara Vašim zahtjevima.<br></div>
         </div>
     </div>
-
+    <br><br><br>
     <div class="row ">
-        <div class=" col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
+        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6 mx-auto">
             <div class="centered-homepage-imgs"><a class="nav-link" href="4me.php"><img class="img-index"
                         src="assets/images/Homepage-4me.png" alt=""></a></div>
         </div>
-        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
-            <div class="centered-homepage-imgs"><a class="nav-link" href="BMC.php"><img class="img-index"
-                        src="assets/images/Homepage-bmc.png" alt=""></a></div>
-        </div>
-        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
+        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6 mx-auto ">
             <div class="centered-homepage-imgs"><a class="nav-link" href="pricefx.php"><img class="img-index"
                         src="assets/images/Homepage-pricefx.png" alt=""></a></div>
         </div>
-        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
+        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6 mx-auto">
             <div class="centered-homepage-imgs"><a class="nav-link" href="programming.php"><img class="img-index"
                         src="assets/images/Homepage-programming.png" alt=""></a></div>
         </div>

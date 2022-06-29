@@ -108,16 +108,12 @@
           <!--Grid row-->
           <div class="row">
               <!--Grid column-->
-              <div class="col-sm-4 col-lg-4  logo-wrapper">
+              <div class="col-sm-4 col-lg-4  logo-wrapper mx-auto">
                   <!--Image-->
                   <img src="assets/images/4me-logo-reg-white.webp" alt="Responsive image">
               </div>
-              <div class="col-sm-4 col-lg-4 logo-wrapper">
-                  <!--Image-->
-                  <img src="assets/images/bmc-logo.png" alt="Responsive image">
-              </div>
               <!--Grid column-->
-              <div class="col-sm-4 col-lg-4  logo-wrapper">
+              <div class="col-sm-4 col-lg-4  logo-wrapper mx-auto">
                   <!--Image-->
                   <img src="assets/images/PriceFx-logo.png" alt="Responsive image">
               </div>
