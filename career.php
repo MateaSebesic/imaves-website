@@ -7,10 +7,14 @@ include "components/navigation.php";
 <div style="overflow: hidden;">
   <div class="row ">
     <div class="col-md-12  "><img class = "header-img" style="width: inherit;" src="assets/images/background-job-top.png" alt="">
-      <div class="centered most-used-head">PONUDA ZA POSAO</div>
+      <div class="centered most-used-head">POSTANI DIO IMAVES TIMA</div>
     </div>
   </div>
-
+  <div class="row">
+      <p class="most-used-par1-4me" style = "padding-left:15%; padding-right:15%">IMAVES je tvrtka koja se već punih 20 godina bavi s projektiranjem, uvođenjem, nadzorom i integracijom digitalnih rješenja i približavanju IT tehnologije krajnjim korisnicima. Usredotočeni smo na uspostavu ITIL (infrastructure library) zasnovanih rješenja prema potrebama korisnika, nadzor i upravljanje infrastrukturom, automatizaciju „service management“ procesa i stalnu korisničku podršku. Stalno rastemo i širimo broj korisnika. Sudjelujemo na internacionalnim projektima i surađujemo s vodećim tvrtkama iz raznolikog spektra industrija. Ulažemo u znanje jer vjerujemo da je to ključ uspjeha i jedini pravi put za osobni napredak i napredak cijele tvrtke.
+    </p>
+    </div>
+  </div>
   <div class="row">
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
     <div class="col-10 col-sm-12 col-md-8 col-lg-8 text-center">
@@ -20,12 +24,13 @@ include "components/navigation.php";
     <br><br>
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
   </div>
+  
   <div class="row ">
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
     <div class="col-10 col-sm-12 col-md-8 col-lg-8 text-center">
       <div class="col registered-button-div">
-                <a href="career-it-dev.php" target="blank" class="registered-button "><span
-                        class="registered-button-text">Developer (m/ž)</span></a>
+                <a href="career-it-pricefx.php" target="blank" class="registered-button "><span
+                        class="registered-button-text">Configuration engineer za Pricefx (m/ž)</span></a>
                 </div>
     <br><br>           
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
@@ -36,14 +41,14 @@ include "components/navigation.php";
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
     <div class="col-10 col-sm-12 col-md-8 col-lg-8 text-center">
       <div class="col registered-button-div">
-                <a href="career-it-pricefx.php" target="blank" class="registered-button "><span
-                        class="registered-button-text">Configuration engineer za Pricefx (m/ž)</span></a>
+                <a href="career-it-dev.php" target="blank" class="registered-button "><span
+                        class="registered-button-text">Developer (m/ž)</span></a>
                 </div>
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
   </div>
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
   </div>
-
+<!--
     <br><br>
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
   </div>
@@ -71,7 +76,6 @@ include "components/navigation.php";
                 </div>
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
   </div>
--->
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
   </div>
 
@@ -98,7 +102,7 @@ include "components/navigation.php";
       </div>
     <div class="col-1 col-sm-0 col-md-2 col-lg-2"></div>
   </div>
-
+  -->
 
   <div class="row ">
     <div class="col-md-12  "><img style="width: inherit;" src="assets/images/background-job-bottom.png" alt="">

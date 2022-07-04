@@ -16,92 +16,99 @@ include "components/navigation.php";
     <div class="row ">
         <div class="col-md-2  col-lg-4 col-xl-4 col-sm-0"></div>
 
-
         <div class="col-md-8 col-lg-5 col-sm-12 col-xl-5">
-            <div class="most-used-par2 " style="text-align: left; padding-top:15%;color:#000000;font-size: 36px;font-weight:400;">
-                Tražimo osobu na poziciji <b>Configuration engineer za Pricefx<br>(m/ž) </b><br><br></div>
-            <hr class="programming-border"><br>
 
-            <div class="it-par">
+
+        <div class="it-par">
                 <p>
                     <br>
-IMAVES d.o.o. je IT tvrtka sa sjedištem u Zagrebu. U suradnji sa svojim partnerom, tvrtkom "PriceFx" obavljamo usluge konfiguracije i održavanja "PriceFx" rješenja za određivanje cijena proizvodima. Sudjelujemo na internacionalnim projektima i surađujemo sa vodećim tvrtkama iz raznolikog spektra industrija.
-                </p> <br>
+                    IMAVES je tvrtka koja se već punih 20 godina bavi s projektiranjem, uvođenjem, nadzorom i integracijom digitalnih rješenja i približavanju IT tehnologije krajnjim korisnicima. Usredotočeni smo na uspostavu ITIL (infrastructure library) zasnovanih rješenja prema potrebama korisnika, nadzor i upravljanje infrastrukturom, automatizaciju „service management“ procesa i stalnu korisničku podršku. Stalno rastemo i širimo broj korisnika. Sudjelujemo na internacionalnim projektima i surađujemo s vodećim tvrtkama iz raznolikog spektra industrija. Ulažemo u znanje jer vjerujemo da je to ključ uspjeha i jedini pravi put za osobni napredak i napredak cijele tvrtke.
+                    <br><br>
+                    Trenutno nas je 17 i u ovom trenutku tražimo nove članove tima za pružanje usluga konfiguracije i održavanja "PriceFx" rješenja za određivanje cijena proizvodima. Radi se o rješenju koje je osmislila tvrtka PriceFx , naš poslovni partner. S obzirom na daljnji razvoj poslovanja tražimo više izvršitelja za rad u Odjelu Upravljanja cijenama na radnom mjestu:
+
+                </p>
             </div>
+
+            <div class="most-used-par2 " style="text-align: center; padding-top:15%;color:#000000;font-size: 36px;font-weight:400;">
+               <b>Configuration engineer za Pricefx<br>
+(m/ž) – više izvršitelja
+ </b><br><br></div>
             <hr class="programming-border"><br>
 
             <div class="it-head">
-                Opis posla:
+            VAŠA ULOGA
             </div>
             <div class="it-par">
                 <p>
                     <br>
-Stručni suradnik u odjelu Upravljanja cijenama biti će uključen u aktivne projekte, održavanje funkcionalnosti i pružanje podrške za isporučenu konfiguraciju rješenja. Projekte će raditi s kolegama i korisničkim timom kako bi što uspješnije odredili način prilagodbe rješenja koje treba ispručiti uz poštovanje tijekova procesa projekta. Usko će surađivati s drugim članovima na projektu i s njima dijeliti znanje i odgovornosti.<br>
+                    Kao Configuration engineer za Pricefx u odjelu Upravljanja cijenama bit ćete uključeni u aktivne projekte, održavanje funkcionalnosti i pružanje podrške za isporučenu konfiguraciju rješenja. 
+                    <br><br>
+                    Unutar projekata usko ćete surađivati i raditi s kolegama članovima IMAVES tima i članovima korisničkog tima, a kako bi odredili upravo onaj način prilagodbe rješenja koji će najbolje odgovarati korisničkim potrebama i zahtjevima te koji će garantirati da će projekt biti odrađen u zadanim okvirima – vremenskim, financijskim i sl.
                 </p> <br>
             </div>
 
             <div class="it-par">
                 <p>
                     <br>
-                    <span style="font-weight:  500;">Glavne karateristike posla bile bi:</span><br>
+                    <span style="font-weight:  500;">U IMAVES-u:</span><br>
                        <ul>
-                            <li>izučavanje proizvoda za određivanje cijena ("PriceFx" rješenje)</li>
-                            <li>konfiguracija rješenja za određivanje cijena prema zahtjevima korisnika</li>
-                            <li>aktivno sudjelovanje i suradnja s klijentima na projektima</li>
+                            <li>nudimo stalni radni odnos u dinamičnoj i ugodnoj radnoj atmosferi u malom timu koji se konstantno širi </li>
+                            <li>nudimo motivirajuću plaću</li>
+                            <li>pratimo rezultate i nagrađujemo vaše rezultate i doprinos</li>
+                            <li>garantiramo rad na složenim i zanimljivim projektima </li>
+                            <li>imat ćete mentora koji će vam uvijek biti na raspolaganju za sva pitanja ili nedoumice</li>
+                            <li>osiguravamo edukacije i certificiranje u tehnologijama iz djelokruga rada</li>
+                            <li>njegujemo otvorenu komunikaciju i potičemo iznošenje mišljenja i prijedloga</li>
+                            <li>radno vrijeme je fleksibilno, kombiniramo rad iz ureda i rad od kuće, a sve kako bi vam olakšali pritisak rokova i očekivanja naših korisnika, te kako bi lakše uskladili svoje poslovne i osobne potrebe</li>
+                            <li>u našem Fun Room-u možete naći stolni nogomet i PlayStation ili se družiti uz kavu, čaj, sok, grickalice </li>
+                            <li>uvažavamo sve oblike različitosti </li>
+                            <li>organiziramo različite oblike druženja (Team building & Team lunch) </li>
+                            <li>isplaćujemo božićnicu, regres, naknadu za topli obrok, naknadu za prijevoz te prigodnu nagradu za rođenje djeteta, rođendan i sl. </li>
                        </ul>
                 </p> <br>
-                <p>
-                    <br>
-                    <span style="font-weight:  500;">Vidimo te u Imaves-u ako imaš sljedeća znanja i kompetencije:</span><br>
-                                <ul>
-                                    <li>napredno korištenje MS Office</li>
-                                    <li>napredno poznavanje MS Windows okoline (klijent/poslužitelj)</li>
-                                    <li>osnovna znanja programiranja (Groovy, JAVA, JavaScript)</li>
-                                    <li>osnovna znanja o bazama podataka (MS SQL)</li>
-                                    <li>osnovno poznavanje razvojnih alata (IntelliJ IDEA, GIT)</li>
-                                    <li>visoko razvijena motivacija za postignućem</li>
-                                    <li>komunikacijske vještine, motiviranost za rad u timu s prioritetom na zajedničke ciljeve </li>
-                                    <li>sposobnost brzog učenja i rješavanja problema</li>
-                                    <li>pouzdanost, odgovornost, organiziranost i savjesnost u radu</li>
-                                </ul>
-                </p>
+                <span style="font-weight:  500;">ŠTO NAM JE VAŽNO</span> <br>
 <br>
 <p>
-Poželjno je da imaš oko za stvari za koje misliš da se mogu poboljšati i ne bojiš se dati svoje mišljenje i izazvati kupce. Imaš snažan karakter i možeš se dobro nositi s vrmemenskim pritiskom i velikim očekivanjima.
+Zadovoljstvo korisnika je na prvom mjestu u poslovanju IMAVES-A i zato nam je bitno da ste predani poslu i pouzdani. 
 </p>
-                <p>
-                    <br>
-Stručna sprema:
-Viša stručna sprema, Stručni prvostupnik, Sveučilišni prvostupnik, Stručni specijalist, Visoka stručna sprema, Magistar struke<br><br>
-Jezici: Engleski (izvrsno)<br><br>
-Potrebne godine iskustva: 2<br><br>
-Vozačka dozvola: B kategorija
-<br><br>
-Prednosti:
+<p>
+Nije nam važno jeste li na početku svoje karijere ili već imate iskustva na istim ili sličnim poslovima – važno nam je da ste znatiželjni i strastveni, da imate dovoljno znanja i vještina da možete raditi kao Configuration engineer te da ste spremni stalno učiti i razvijati se. 
+</p>
+<p>
+Nije nam važan stupanj vaše stručne spreme – ali nam je važno da ste informatički /tehnički smjer
+</p>
+<p>
+Važno nam je da se dobro služite engleskim jezikom zbog komunikacije s našim poslovnim partnerom, ali i zbog edukacija koje ćete prolaziti.
+</p>
+                <p><br>
+
+                <span style="font-weight:  500;">VIDIMO TE U IMAVES-U AKO IMAŠ SLJEDEĆA ZNANJA I KOMPETENCIJE:</span> <br>
           <ul>
-          <li>poznavanje "Groovy" programskog jezika</li>
-          <li>poznavanje osnova ekonomije i financija</li>
+          <li>Napredno korištenje MS Office paketa, Internet</li>
+          <li>Napredno poznavanje MS Windows okoline (klijent/poslužitelj)</li>
+          <li>Osnovno znanje programiranja (Groovy, JAVA, javascript)</li>
+          <li>Osnovno znanje o bazama podataka (MS SQL)</li>
+          <li>Osnovno poznavanje razvojnih alata (intellij IDEA, GIT)</li>
           </ul>
                 </p> <br>
-                <p>
+                <span style="font-weight:  500;">PREDNOST JE:</span> <br>
+          <ul>
+          <li>Poznavanje "Groovy" programskog jezika</li>
+          <li>Poznavanje „Agile“ projektne metodologije i JIRA rješenja za upravljanje projektima</li>
+          <li>Razumijevanje ekonomije i financija</li>
+          </ul>
+                </p> <br>
+                <p>Postanite dio IMAVES tima.  Prijavite se putem linka za prijavu.</p>
                     <br>
-
-                    <span style="font-weight:  500;">Što nudimo:</span> <br><br>
-Stalni radni odnos u dinamičnoj i zabavnoj sredini u perspektivnoj kompaniji koja postoji na hrvatskom tržištu gotovo 20 godina.<br><br>
-Radno mjesto nudi mogućnost stjecanja dodatnih znanja, profesionalni napredak i razvoj te svoje interese, ambicije i talente možeš dodatno ostvariti i razviti.
-Mogućnost kombiniranja rada iz ureda i rada od kuće sukladno Imaves politici.<br><br>
-Pozivamo zainteresirane kandidate da se prijave na naš natječaj slanjem životopisa i motivacijskog pisma. Kandidati koji uđu u uži krug bit će kontaktirani.
-
-
+                    <p>Mi čekamo na vas!</p>
 <br>
-<br><br>
                 </p> <br>
                 <div class="col registered-button-div">
                 <a href="career-form-it.php" target="blank" class="registered-button "><span
                         class="registered-button-text">POŠALJI PRIJAVU ZA POSAO</span></a>
                 </div>
                 <br>
-
+<!--
                 <div class="col registered-button-div">
                 <a href="career-it-inf.php" target="blank" class="registered-button "><span
                         class="registered-button-text">PONUDA ZA POSAO - Informatičar</span></a>
@@ -113,20 +120,17 @@ Pozivamo zainteresirane kandidate da se prijave na naš natječaj slanjem život
                         class="registered-button-text">PONUDA ZA POSAO - Stručni suradnik za BMC Software (m/ž)</span></a>
                 </div>
                 <br>
-                -->
                 <div class="col registered-button-div">
                 <a href="career-it-4me.php" target="blank" class="registered-button "><span
                         class="registered-button-text">PONUDA ZA POSAO - Stručni suradnik za 4me Software (m/ž)</span></a>
                 </div>
+                -->
                 <br>
                 <div class="col registered-button-div">
                 <a href="career-it-dev.php" target="blank" class="registered-button "><span
                         class="registered-button-text">PONUDA ZA POSAO - Developer (m/ž)</span></a>
                 </div>
                 <br>
-
-
-
 
 
 
