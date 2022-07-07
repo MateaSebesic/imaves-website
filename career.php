@@ -11,8 +11,7 @@ include "components/navigation.php";
     </div>
   </div>
   <div class="row">
-      <p class="most-used-par1-4me" style = "padding-left:15%; padding-right:15%">IMAVES je tvrtka koja se već punih 20 godina bavi s projektiranjem, uvođenjem, nadzorom i integracijom digitalnih rješenja i približavanju IT tehnologije krajnjim korisnicima. Usredotočeni smo na uspostavu ITIL (infrastructure library) zasnovanih rješenja prema potrebama korisnika, nadzor i upravljanje infrastrukturom, automatizaciju „service management“ procesa i stalnu korisničku podršku. Stalno rastemo i širimo broj korisnika. Sudjelujemo na internacionalnim projektima i surađujemo s vodećim tvrtkama iz raznolikog spektra industrija. Ulažemo u znanje jer vjerujemo da je to ključ uspjeha i jedini pravi put za osobni napredak i napredak cijele tvrtke.
-    </p>
+      <p class="most-used-par1-4me" style = "padding-left:15%; padding-right:15%">IMAVES društvo već punih 20 godina projektira, uvodi i integrira digitalna rješenja. Sudjelujemo na međunarodnim projektima i surađujemo s vodećim tvrtkama iz različitih industrija. Ulažemo u znanje jer vjerujemo da je to ključ uspjeha te jedini pravi put za osobni napredak i napredak cijelog društva.</p>
     </div>
   </div>
   <div class="row">

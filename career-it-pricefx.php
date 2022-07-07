@@ -22,10 +22,9 @@ include "components/navigation.php";
         <div class="it-par">
                 <p>
                     <br>
-                    IMAVES je tvrtka koja se već punih 20 godina bavi s projektiranjem, uvođenjem, nadzorom i integracijom digitalnih rješenja i približavanju IT tehnologije krajnjim korisnicima. Usredotočeni smo na uspostavu ITIL (infrastructure library) zasnovanih rješenja prema potrebama korisnika, nadzor i upravljanje infrastrukturom, automatizaciju „service management“ procesa i stalnu korisničku podršku. Stalno rastemo i širimo broj korisnika. Sudjelujemo na internacionalnim projektima i surađujemo s vodećim tvrtkama iz raznolikog spektra industrija. Ulažemo u znanje jer vjerujemo da je to ključ uspjeha i jedini pravi put za osobni napredak i napredak cijele tvrtke.
+                    IMAVES društvo već punih 20 godina projektira, uvodi i integrira digitalna rješenja. Sudjelujemo na međunarodnim projektima i surađujemo s vodećim tvrtkama iz različitih industrija. Ulažemo u znanje jer vjerujemo da je to ključ uspjeha te jedini pravi put za osobni napredak i napredak cijelog društva.
                     <br><br>
-                    Trenutno nas je 17 i u ovom trenutku tražimo nove članove tima za pružanje usluga konfiguracije i održavanja "PriceFx" rješenja za određivanje cijena proizvodima. Radi se o rješenju koje je osmislila tvrtka PriceFx , naš poslovni partner. S obzirom na daljnji razvoj poslovanja tražimo više izvršitelja za rad u Odjelu Upravljanja cijenama na radnom mjestu:
-
+                    Tražimo nove članove tima za pružanje usluga konfiguracije i održavanja rješenja tvrtke Pricefx za određivanje cijena proizvoda. Obzirom na daljnji razvoj poslovanja tražimo više izvršitelja:
                 </p>
             </div>
 
@@ -42,8 +41,6 @@ include "components/navigation.php";
                 <p>
                     <br>
                     Kao Configuration engineer za Pricefx u odjelu Upravljanja cijenama bit ćete uključeni u aktivne projekte, održavanje funkcionalnosti i pružanje podrške za isporučenu konfiguraciju rješenja. 
-                    <br><br>
-                    Unutar projekata usko ćete surađivati i raditi s kolegama članovima IMAVES tima i članovima korisničkog tima, a kako bi odredili upravo onaj način prilagodbe rješenja koji će najbolje odgovarati korisničkim potrebama i zahtjevima te koji će garantirati da će projekt biti odrađen u zadanim okvirima – vremenskim, financijskim i sl.
                 </p> <br>
             </div>
 
@@ -55,15 +52,14 @@ include "components/navigation.php";
                             <li>nudimo stalni radni odnos u dinamičnoj i ugodnoj radnoj atmosferi u malom timu koji se konstantno širi </li>
                             <li>nudimo motivirajuću plaću</li>
                             <li>pratimo rezultate i nagrađujemo vaše rezultate i doprinos</li>
-                            <li>garantiramo rad na složenim i zanimljivim projektima </li>
+                            <li>jamčimo rad na složenim i zanimljivim projektima  </li>
                             <li>imat ćete mentora koji će vam uvijek biti na raspolaganju za sva pitanja ili nedoumice</li>
                             <li>osiguravamo edukacije i certificiranje u tehnologijama iz djelokruga rada</li>
                             <li>njegujemo otvorenu komunikaciju i potičemo iznošenje mišljenja i prijedloga</li>
-                            <li>radno vrijeme je fleksibilno, kombiniramo rad iz ureda i rad od kuće, a sve kako bi vam olakšali pritisak rokova i očekivanja naših korisnika, te kako bi lakše uskladili svoje poslovne i osobne potrebe</li>
-                            <li>u našem Fun Room-u možete naći stolni nogomet i PlayStation ili se družiti uz kavu, čaj, sok, grickalice </li>
-                            <li>uvažavamo sve oblike različitosti </li>
-                            <li>organiziramo različite oblike druženja (Team building & Team lunch) </li>
-                            <li>isplaćujemo božićnicu, regres, naknadu za topli obrok, naknadu za prijevoz te prigodnu nagradu za rođenje djeteta, rođendan i sl. </li>
+                            <li>radno vrijeme je prilagodljivo, kombiniramo rad iz ureda i rad od kuće, a sve kako bi vam olakšali poštivanje rokova i očekivanja naših korisnika, te kako bi lakše uskladili svoje poslovne i osobne potrebe</li>
+                            <li>naš zanimljivi Fun Room možete koristiti za kratkotrajni odmor od redovnog posla</li>
+                            <li>uvažavamo sve oblike različitosti</li>
+                            <li>organiziramo različite oblike druženja (Team building & Team lunch)</li>
                        </ul>
                 </p> <br>
                 <span style="font-weight:  500;">ŠTO NAM JE VAŽNO</span> <br>
@@ -72,10 +68,10 @@ include "components/navigation.php";
 Zadovoljstvo korisnika je na prvom mjestu u poslovanju IMAVES-A i zato nam je bitno da ste predani poslu i pouzdani. 
 </p>
 <p>
-Nije nam važno jeste li na početku svoje karijere ili već imate iskustva na istim ili sličnim poslovima – važno nam je da ste znatiželjni i strastveni, da imate dovoljno znanja i vještina da možete raditi kao Configuration engineer te da ste spremni stalno učiti i razvijati se. 
+Važno nam je da ste znatiželjni i strastveni. Da imate dovoljno znanja i vještina. Spremni ste stalno učiti i razvijati se kako bi radili kao Configuration engineer, bez obzira jeste li na početku svoje karijere ili već imate iskustva na istim ili sličnim poslovima
 </p>
 <p>
-Nije nam važan stupanj vaše stručne spreme – ali nam je važno da ste informatički /tehnički smjer
+Važno nam je da imate sveučilišno obrazovanje.
 </p>
 <p>
 Važno nam je da se dobro služite engleskim jezikom zbog komunikacije s našim poslovnim partnerom, ali i zbog edukacija koje ćete prolaziti.
