@@ -8,8 +8,6 @@ include "components/navigation.php";
     <br>
     <h3 style="color:#FF5800;">Osvrnut ćemo se na najvažnije u proteklih 20 godina poslovanja i važnih trenutaka.
 Kako su ljudski resursi najvažniji faktor, pa u tom duhu i njegujemo naše poslovanje.
-Osvrnut ćemo se na najvažnije u proteklih 20 godina poslovanja i važnih trenutaka.
-Kako su ljudski resursi najvažniji faktor, pa u tom duhu i njegujemo naše poslovanje.
 </h3>
 <br>
       <div class="timeline">
